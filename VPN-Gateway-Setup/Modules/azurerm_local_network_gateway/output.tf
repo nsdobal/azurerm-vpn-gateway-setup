@@ -1,0 +1,1 @@
+output "id" { value = azurerm_local_network_gateway.Local_Network_Gateway.id }
